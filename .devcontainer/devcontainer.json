@@ -1,0 +1,10 @@
+{
+  "name": "Cline Dev Container",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "cline.cline"
+      ]
+    }
+  }
+}
