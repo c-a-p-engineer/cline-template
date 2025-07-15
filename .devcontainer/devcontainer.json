@@ -12,11 +12,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "cline.cline",
-        "eamodio.gitlens",
-        "ms-azuretools.vscode-docker",
-        "github.copilot",
-        "ms-vscode.makefile-tools"
+        "saoudrizwan.claude-dev"
       ]
     }
   }
